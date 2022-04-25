@@ -1,0 +1,27 @@
+#home {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("https://i.imgur.com/O8lu4hI.jpg");
+    color: white;
+    height: 100vh;
+    text-align: center;
+    font-size: 50px;
+}
+
+nav {
+    background-color: black;
+}
+
+#contact {
+    background-color: black;
+}
+
+.text {
+    font-size: 20px;
+}
+
+#contact {
+    font-size: 17px;
+}
+
